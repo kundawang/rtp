@@ -30,6 +30,7 @@
 - [Video Layers Allocation](https://webrtc.googlesource.com/src/+/refs/heads/main/docs/native-code/rtp-hdrext/video-layers-allocation00) (WebRTC extension, non-RFC)
 
 #### Codecs
+- [RFC 2435](https://www.rfc-editor.org/rfc/rfc2435.html) — RTP Payload Format for JPEG-compressed Video
 - [RFC 3551](https://www.rfc-editor.org/rfc/rfc3551.html) — RTP Profile for PCMA/PCMU (G.711) and G.722 Audio
 - [RFC 6184](https://www.rfc-editor.org/rfc/rfc6184.html) — RTP Payload Format for H.264 Video
 - [RFC 7587](https://www.rfc-editor.org/rfc/rfc7587.html) — RTP Payload Format for the Opus Audio Codec
